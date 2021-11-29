@@ -5,10 +5,10 @@ Georgia Buchanan
 Eduardo Martinez
 ## Descriptions
 This repository was solely made for Module 5 assignment for CS305 - Computing Tools III. Here you will see a README which includes a license to be used for this project and offers a description of this repo, and also a CONTRIBUTING file that sets guidlines for contributors of this project.
-## License
+## License Info
 MIT License (https://rem.mit-license.org/)
 
-Copyright (c) 2021
+Copyright (c) 2021 georgiahope
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
