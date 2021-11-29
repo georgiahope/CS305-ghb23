@@ -1,8 +1,7 @@
-# Welcome to ghb23-cs305 repo's contributing guide
-## New contributor guide
-
-To get an overview of the project, read the [README](README.md).
-## Overall Contributor Guide
+# Welcome to ghb23-cs305 repo's contributor guide
+## List of contributors and their information
+*Contributors, add your information here*
+## Contributor Guide
 ### Make Changes 
 
 1. Fork the repository.
