@@ -1,6 +1,7 @@
 # Welcome to ghb23-cs305 repo's contributor guide
 ## List of contributors and their information
 *Contributors, add your information here*
+Devin O'Neal - ALASKAWARRIORS - dco42@nau.edu
 ## Contributor Guide
 ### Make Changes 
 
