@@ -1,6 +1,9 @@
 # Welcome to ghb23-cs305 repo's contributor guide
 ## List of contributors and their information
 *Contributors, add your information here*
+
+Dylan Griffith (dpg9) dpg9@nau.edu
+
 ## Contributor Guide
 ### Make Changes 
 
@@ -37,3 +40,5 @@ Software developers shall commit themselves to making the analysis, specificatio
 7. COLLEAGUES – Software developers shall be fair to and supportive of their colleagues.
 8. SELF – Software developers shall participate in lifelong learning regarding the practice of professional and organized computer science.
 
+### Dylan Griffith (dpg9) Additions
+This is dylan griffith's addition to the file. Be amazed. 
