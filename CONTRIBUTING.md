@@ -2,7 +2,11 @@
 ## List of contributors and their information
 *Contributors, add your information here*
 
+Devin O'Neal - ALASKAWARRIORS - dco42@nau.edu
+
+
 Dylan Griffith (dpg9) dpg9@nau.edu
+
 
 ## Contributor Guide
 ### Make Changes 

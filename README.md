@@ -6,6 +6,8 @@ Eduardo Martinelz
 Dylan Griffith
 ## Descriptions
 This repository was solely made for Module 5 assignment for CS305 - Computing Tools III. Here you will see a README which includes a license to be used for this project and offers a description of this repo, and also a CONTRIBUTING file that sets guidlines for contributors of this project.
+### Devin's Module Idea
+This project could have a modules for other parts of the CS X05 series of classes as needed.
 ## License Info
 MIT License (https://rem.mit-license.org/)
 
